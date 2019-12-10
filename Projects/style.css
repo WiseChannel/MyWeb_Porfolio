@@ -28,6 +28,7 @@ header #socialMedia img:first-child {
 header ul {
   display: flex;
   margin-left: 30px;
+  margin-bottom: 0;
 }
 header ul a {
   text-decoration: none;
